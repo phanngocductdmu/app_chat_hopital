@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264291660789",
+    "project_id": "nksproject-38a44",
+    "storage_bucket": "nksproject-38a44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264291660789:android:bd04aa19ac9856b65d26bc",
+        "android_client_info": {
+          "package_name": "com.example.app_chat_hospital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOPPSQzJu4WHR19KLLTpU9opwfmONcrIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
